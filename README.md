@@ -33,7 +33,6 @@ Apresentar um sistema, em Python, que irá calcular o valor a ser pago em uma co
 3. O Peso dos Tributos
 4. A Lógica da COSIP
 5. O Algoritmo de Cálculo da bandeira tarifária
-
 6. Exemplo de código.
 7. Conclusão.
 
